@@ -25,6 +25,7 @@ export default function RootLayout({
               <Link href="/league/39">Premier League</Link>
               <Link href="/league/140">La Liga</Link>
               <Link href="/league/cfb">College Football</Link>
+              <Link href="/game">Soccer Game</Link>
             </nav>
           </header>
           {children}
